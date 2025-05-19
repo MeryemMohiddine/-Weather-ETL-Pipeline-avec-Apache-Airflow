@@ -85,14 +85,14 @@ http://localhost:8080
 ## 📊 Visualisation des données avec Power BI
 Après l'extraction et la transformation des données météorologiques via Apache Airflow, celles-ci sont visualisées à l'aide de Power BI pour une analyse approfondie et interactive.
 
-🔹 Objectifs de la visualisation
+**🔹 Objectifs de la visualisation**
 - **Suivi des températures :** Affichage des températures maximales et minimales sur une période donnée.
 
 - **Analyse de la vitesse du vent :** Visualisation des vitesses moyennes et maximales du vent.
 
 - **Cartographie :** Représentation géographique des données météorologiques pour Londres , UK.
 
-4- **Tendances temporelles :** Observation des variations météorologiques au fil du temps.
+- **Tendances temporelles :** Observation des variations météorologiques au fil du temps.
    
 ## 🔹 Aperçu du tableau de bord
 
